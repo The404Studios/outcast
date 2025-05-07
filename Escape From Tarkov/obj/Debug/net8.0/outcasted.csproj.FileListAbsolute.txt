@@ -1,0 +1,14 @@
+C:\Users\thewi\source\repos\Escape From Tarkov\Escape From Tarkov\bin\Debug\net8.0\outcasted.exe
+C:\Users\thewi\source\repos\Escape From Tarkov\Escape From Tarkov\bin\Debug\net8.0\outcasted.deps.json
+C:\Users\thewi\source\repos\Escape From Tarkov\Escape From Tarkov\bin\Debug\net8.0\outcasted.runtimeconfig.json
+C:\Users\thewi\source\repos\Escape From Tarkov\Escape From Tarkov\bin\Debug\net8.0\outcasted.dll
+C:\Users\thewi\source\repos\Escape From Tarkov\Escape From Tarkov\bin\Debug\net8.0\outcasted.pdb
+C:\Users\thewi\source\repos\Escape From Tarkov\Escape From Tarkov\obj\Debug\net8.0\outcasted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thewi\source\repos\Escape From Tarkov\Escape From Tarkov\obj\Debug\net8.0\outcasted.AssemblyInfoInputs.cache
+C:\Users\thewi\source\repos\Escape From Tarkov\Escape From Tarkov\obj\Debug\net8.0\outcasted.AssemblyInfo.cs
+C:\Users\thewi\source\repos\Escape From Tarkov\Escape From Tarkov\obj\Debug\net8.0\outcasted.csproj.CoreCompileInputs.cache
+C:\Users\thewi\source\repos\Escape From Tarkov\Escape From Tarkov\obj\Debug\net8.0\outcasted.dll
+C:\Users\thewi\source\repos\Escape From Tarkov\Escape From Tarkov\obj\Debug\net8.0\refint\outcasted.dll
+C:\Users\thewi\source\repos\Escape From Tarkov\Escape From Tarkov\obj\Debug\net8.0\outcasted.pdb
+C:\Users\thewi\source\repos\Escape From Tarkov\Escape From Tarkov\obj\Debug\net8.0\outcasted.genruntimeconfig.cache
+C:\Users\thewi\source\repos\Escape From Tarkov\Escape From Tarkov\obj\Debug\net8.0\ref\outcasted.dll
